@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "ecomcon",
+=======
+  "name": "ecomerce1",
+>>>>>>> 96078beb7c7e2131bd5bdde716df5b366d644b3d
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
